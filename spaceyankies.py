@@ -60,7 +60,7 @@ bullet_state = 'ready'
 score_value= 0
 font = pygame.font.Font('freesansbold.ttf',32)
 textx = 600
-texty = 10
+texty = 11
 #game over
 over_font = pygame.font.Font('freesansbold.ttf',64)
 def show_score(x,y):
